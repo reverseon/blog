@@ -1,0 +1,19 @@
+entries:
+  - title: what is this?
+    entries:
+      - title: this is apparently my blog, created for fulfilling my assignment, sort of...
+      - title: "my twitter is <a href='https://www.twitter.com/reonalphabuild' target='_blank'>[at]reonalphabuild</a>"
+      - title: my email is reverseon[at]outlook.com
+
+  - title: my posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: rss
+    url: feed.xml
+  - title: credit
+    entries:
+      - title: Powered by Jekyll, using no-style-please theme.
