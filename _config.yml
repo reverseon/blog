@@ -35,7 +35,7 @@ gems:
   - jekyll-feed
 plugins:
   - jekyll-feed
-
+timezone: Asia/Jakarta
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
