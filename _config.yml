@@ -31,7 +31,7 @@ favicon: favicon.ico
 # Build settings
 theme: no-style-please
 gems:
-  -jekyll-seo-tag
+  - jekyll-seo-tag
 plugins:
   - jekyll-feed
 
