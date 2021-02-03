@@ -29,7 +29,7 @@ github_username:  reverseon
 author: reverseon
 favicon: favicon.ico
 # Build settings
-theme: no-style-please
+remote-theme: riggraz/no-style-please
 gems:
   - jekyll-seo-tag
   - jekyll-feed
