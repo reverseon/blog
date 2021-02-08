@@ -5,6 +5,7 @@ date:   "2021-02-03 16:29:27 +0700"
 categories: ranting
 ---
 ![Myim](https://i.pinimg.com/564x/a8/d4/aa/a8d4aa77e79b9649791919051d6ffc19.jpg)
+
 Hari selasa kemarin, saya mengikuti kuliah publik dari `Prof. Suhono H. Supangkat` yang bertajuk `Sistem Cerdas Untuk Peningkatan Kualitas Hidup`. Sesuai judul, kuliah ini membahas mengenai sistem cerdas dan implementasinya ke berbagai aspek di kehidupan kita.
 
 Di artikel kali ini, saya akan sedikit menuangkan opini saya mengenai sistem cerdas atau smart system. Konsep yang menjanjikan masa depan yang efisien, atau matinya keamanan siber dan privasi data?
