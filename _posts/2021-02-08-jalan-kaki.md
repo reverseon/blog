@@ -27,7 +27,7 @@ Namun, mengendarai sepeda melalui trafik di pusat Kota Bekasi adalah cara yang b
 
 Pertama tama, saya ingin memperlihatkan beberapa fasilitas yang tersedia untuk pejalan kaki di Kota Bandung. Saya akan mengambil contoh sidewalk yang ada di Jalan Asia Afrika, Bandung.
 
-![Asia Afrika](/assets/img/asiaafrika.jpg) 
+![Asia Afrika](/blog/assets/img/asiaafrika.jpg) 
 
 Source: **unknown**[^3] / Pinterest [see Content Policy][^2]
 
@@ -35,7 +35,7 @@ Saya tahu bahwa tidak semua sidewalk yang ada di Kota Bandung seindah yang ada d
 
 Selanjutnya, di Jakarta, sepertinya banyak sekali sidewalk yang sudah proper dengan maraknya video "Jakarta rasa [Negara Maju]" yang tersebar di TikTok maupun sosial media lainnya. saya akan mengambil salah satu contoh saja dari sekian banyak contoh proper sidewalk yang ada di Jakarta.
  
-![Jakarta](/assets/img/jakarta.jpg) 
+![Jakarta](/blog/assets/img/jakarta.jpg) 
 
 Source: **kartika.vita** / Instagram [see Content Policy][^2]
 
@@ -47,13 +47,13 @@ Ketika mendengar kata "sidewalk bagus yang ada di Bekasi," hal yang pertama terp
 
 Berikut adalah kondisi sidewalk yang ada di depan Taman Kota Bekasi, Jalan Ahmad Yani.
  
-![Kota Bekasi](/assets/img/kotabekasi.jpg) 
+![Kota Bekasi](/blog/assets/img/kotabekasi.jpg) 
 
 Source: **Zulkifli** / National Geographic [see Content Policy][^2]
 
 Lalu ini adalah sidewalk yang ada di kawasan Summarecon Mall Bekasi
 
-![Sidewalk SMB](/assets/img/sidewalksmb.jpg) 
+![Sidewalk SMB](/blog/assets/img/sidewalksmb.jpg) 
 
 Source: **unknown**[^3] / Google StreetView [see Content Policy][^2]
 
@@ -62,7 +62,7 @@ Tapi, itukan yang terbaiknya, lantas, general viewnya bagaimana sih?
 
 Saya menemukan gambar yang kurang lebih merepresentasikan kebanyakan trotoar / sidewalk yang ada di Bekasi. foto ini diambil di sidewalk depan Stasiun Bekasi, Jalan Djuanda, Bekasi Selatan.
  
-![Trotoar Stasiun](/assets/img/trotoarstasiun.jpg) 
+![Trotoar Stasiun](/blog/assets/img/trotoarstasiun.jpg) 
 
 Source: **Fitriyandi Al Fajri** / Warta Kota [see Content Policy][^2]
 
