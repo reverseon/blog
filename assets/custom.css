@@ -1,3 +1,6 @@
 .text-justify {
   text-align: justify;
 }
+html, body {
+    overflow-x: hidden;
+}
