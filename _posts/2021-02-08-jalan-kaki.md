@@ -53,7 +53,7 @@ Source: **Zulkifli** / National Geographic [see Content Policy][^2]
 
 Lalu ini adalah sidewalk yang ada di kawasan Summarecon Mall Bekasi
 
-![Sidewalk SMB](/blog/assets/img/sidewalksmb.jpg) 
+![Sidewalk SMB](/blog/assets/img/sidewalksmb.JPG) 
 
 Source: **unknown**[^3] / Google StreetView [see Content Policy][^2]
 
@@ -91,5 +91,5 @@ Have a good day!
 ---
 {: data-content="Content Policy and Disclaimer"}
 [^1]: Artikel yang saya tulis murni bersifat **opini pribadi** dan **tidak merepresentasikan** pandangan **mayoritas** maupun suatu **individu** atau **entitas lainnya**.
-[^2]: Seluruh gambar yang digunakan di artikel, dengan pengecualian gambar berlabel **Dokumentasi Pribadi**, **mungkin** saya gunakan **tanpa persetujuan** dari pemilik gambar. **Bila** anda adalah pemilik gambar yang digunakan di artikel dan merasa `berkeberatan` bisa memberitahu dengan **menghubungi kontak** yang tertera di bagian `Further Discussions`.
+[^2]: Seluruh gambar yang digunakan di artikel, dengan pengecualian gambar berlabel **Dokumentasi Pribadi**, **mungkin** saya gunakan **tanpa persetujuan** dari pemilik gambar. **Bila** anda adalah pemilik gambar yang digunakan di artikel dan merasa `berkeberatan`, anda bisa memberitahu dengan **menghubungi kontak** yang tertera di bagian `Further Discussions`.
 [^3]: Gambar berlabel `unknown` adalah gambar yang tidak bisa saya cari pemiliknya. Bila anda merasa gambar tersebut adalah `milik anda`, anda bisa memberitahu dengan **menghubungi kontak** yang tertera di bagian `Further Discussions`.
