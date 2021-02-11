@@ -7,7 +7,11 @@ categories: analysis
 ---
 {: data-content="Introduction"}
 
-Artikel ini adalah artikel lanjutan dari artikel problem 1 sebelumnya, untuk membaca problem 1 silahkan klik link di bawah ini. with that said, mari kita lanjutkan ke problem kedua.
+Artikel ini adalah artikel lanjutan dari artikel problem 1 sebelumnya, untuk membaca problem 1 silahkan klik link di bawah ini. 
+
+- [Need, Know, How, Solve, and Check! Problem 1](https://reverseon.github.io/blog/analysis/2021/02/11/first-problem.html)
+
+With that said, mari kita lanjutkan ke problem kedua.
 
 ---
 {: data-content="Table of Contents"}
@@ -47,7 +51,7 @@ Simpel saja, dengan memanfaatkan teknologi, saya akan melakukan riset seberapa b
 
 Mudah saja, pergi ke Google Maps, masukan query "Barbershop di Kota Bandung," Google akan menampilkan list Barbershop yang sesuai.
 
-![gmaphome](/assets/img/bkb.jpg)
+![gmaphome](/blog/assets/img/bkb.jpg)
 
 [See Source][^1]
 
@@ -64,7 +68,7 @@ Tentu saja, dengan metode riset senaif ini, akan banyak asumsi dan kompromi yang
 
 Oke, sederhana saja, kita tinggal manual swipe hingga mentok tidak ada queries lagi yang ditampilkan. Ini akan memberikan estimasi figur yang cukup baik untuk Barbershop yang ada di Kota Bandung.
 
-![gmapfull](/assets/img/bkbfull.jpg)
+![gmapfull](/blog/assets/img/bkbfull.jpg)
 
 Terlihat ada 246 Barbershop yang terindeks oleh Google Maps dengan query "Barbershop di Kota Bandung." Namun, tidak semuanya adalah barbershop **di Kota Bandung**, bahkan ada yang bukan Barbershop sama sekali, Trans Studio Mall, misalnya. Maka dari itu, figur 246 akan kita kurangi 15% untuk mengkompensasi ketidakakuratan tersebut. Berarti
 
