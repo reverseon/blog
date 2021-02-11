@@ -18,7 +18,7 @@ Dengan membagi-bagi masalah menjadi 3 aspek, yaitu What we need?, What we know? 
 
 Saya diberikan dua problem sebagai tugas yang bertujuan untuk melatih mahasiswa menerapkan metode Need Know How Solve, and probably check. Berikut adalah penjabaran dari problem pertama, problem kedua akan ada di post berikutnya di link ini.
 
-[Need, Know, How, Solve and Check! Problem 2](https://reverseon.github.io/blog/analysis/2021/02/11/second-problem.html)
+- [Need, Know, How, Solve, and Check! Problem 2](https://reverseon.github.io/blog/analysis/2021/02/11/second-problem.html)
 
 ---
 {: data-content="Table of Contents"}
