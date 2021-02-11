@@ -41,7 +41,9 @@ Dari deskripsi problem di bagian overview, kita perlu menjawab pertanyaan
 
 ### 2.2 Know
 
-Dari deskripsi problem di bagian overview, kita mengetahui bahwa kota Bandung memiliki penduduk sekitar 2.5 juta jiwa
+Dari deskripsi problem di bagian overview, kita mengetahui bahwa 
+
+-Kota Bandung memiliki penduduk sekitar 2.5 juta jiwa
 
 ### 2.3 How
 
