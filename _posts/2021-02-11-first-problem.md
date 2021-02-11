@@ -16,7 +16,9 @@ Need, Know, How, Solve and Check adalah sebuah penstrukturan terhadap suatu masa
 
 Dengan membagi-bagi masalah menjadi 3 aspek, yaitu What we need?, What we know? and How do we solve it? akan membuat masalah menjadi lebih terstruktur dan menghilangkan detail detail yang kurang relevan.
 
-Saya diberikan dua problem sebagai tugas yang bertujuan untuk melatih mahasiswa menerapkan metode Need Know How Solve, and probably check. Berikut adalah penjabaran dari problem pertama, problem kedua akan ada di post berikutnya yang akan saya link di post dibawah.
+Saya diberikan dua problem sebagai tugas yang bertujuan untuk melatih mahasiswa menerapkan metode Need Know How Solve, and probably check. Berikut adalah penjabaran dari problem pertama, problem kedua akan ada di post berikutnya di link ini.
+
+[Need, Know, How, Solve and Check! Problem 2](https://reverseon.github.io/blog/analysis/2021/02/11/second-problem.html)
 
 ---
 {: data-content="Table of Contents"}
@@ -84,7 +86,7 @@ Berdasarkan persamaan dasar, ada beberapa asumsi yang harus kita gunakan, yaitu
 <li>Diagram benda bebasnya terlihat seperti ini</li>
 </ol>
 
-![Free Body](/assets/img/freebody.jpg)
+![Free Body](/blog/assets/img/freebody.jpg)
 
 #### 1.4.2 Calculations
 
