@@ -4,3 +4,9 @@
 html, body {
     overflow-x: hidden;
 }
+mjx-container mjx-math {
+    white-space: normal;
+}
+html, body {
+    overflow-x: hidden;
+}
