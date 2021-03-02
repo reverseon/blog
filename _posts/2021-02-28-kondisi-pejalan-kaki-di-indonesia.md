@@ -72,4 +72,4 @@ Fasilitas pejalan kaki merupakan tempat umum yang digunakan untuk kepentingan ma
 
 Pada pasal 131 ayat (1), pejalan kaki berhak untuk mendapatkan fasilitas pendukung berupa trotoar, tempat penyeberangan, dan fasilitas lain yang layak. Fasilitas yang disediakan harus memenuhi kriteria keamanan dan kenyamanan bagi pejalan kaki. Pada ayat (2) dijelaskan bahwa pejalan kaki berhak untuk mendapatkan prioritas ketika menyeberang jalan di tempat penyeberangan. Apabila di sekitar tempat tersebut tidak terdapat fasilitas pendukung untuk menyeberang jalan, pejalan kaki berhak untuk menyeberang di tempat yang dipilih dengan mempertimbangkan keselamatannya. Selain itu, pejalan kaki wajib memperhatikan kondisi lalu lintas di sekitar tempat dia menyeberang. Pasal 132 menjelaskan tentang kewajiban yang harus dilakukan oleh pejalan kaki. Pejalan kaki wajib menggunakan fasilitas pendukung yang memang diperuntukkan bagi pejalan kaki. Apabila tidak terdapat fasilitas pendukung, pejalan kaki wajib menggunakan bagian tepi jalan.
 
-- [Sumber UU](Shttps://pih.kemlu.go.id/files/uu_no_22_tahun_2009.pdf)
+- [Sumber UU](https://pih.kemlu.go.id/files/uu_no_22_tahun_2009.pdf)
