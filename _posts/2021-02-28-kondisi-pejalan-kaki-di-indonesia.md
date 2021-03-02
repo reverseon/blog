@@ -43,7 +43,7 @@ Pada bagian ini, akan ada 3 bahasan yang penting
 
 Fasilitas pejalan kaki diatur oleh perundang-undangan secara sah, yaitu pada pasal 25 UU №2 Tahun 2009.
 
-![Kel](/assets/img/kel1.png)
+![Kel](/blog/assets/img/kel1.png)
 
 Fasilitas yang sesuai dengan pasal di atas berupa trotoar, tempat penyeberangan dan fasilitas pendukung lainnya
 
@@ -55,11 +55,11 @@ Pada kenyataannya, banyak fasilitas pejalan kaki yang sudah rusak dan tidak laya
 
 Ketika membuka laman www.lapor.go.id, kita akan disambut dengan halaman seperti di bawah ini.
 
-![Kel](/assets/img/kel2.png)
+![Kel](/blog/assets/img/kel2.png)
 
 Langkah-langkah pengaduan juga dapat dilihat pada bagian bawahnya, yaitu akan tampil halaman seperti ini
 
-![Kel](/assets/img/kel3.png)
+![Kel](/blog/assets/img/kel3.png)
 
 Langkah pengaduan ini cukup mudah. Kita hanya perlu menulis pengaduan secara lengkap dan jelas. Pastikan laporan tersebut ditujukan kepada Kementerian PUPR. Setelah mengirim laporan, kita tinggal menunggu untuk ditindaklanjuti oleh pihak yang berwenang.
 Cara lain untuk melakukan pengaduan adalah dengan mengontak akun Dinas PUPR di lingkungan tempat kejadian. Hal ini terbukti cukup ampuh. Penulis pernah mengadukan matinya lampu penerangan jalan di dekat rumah penulis. Tak lama setelah itu, pengaduan diterima dan langsung dieksekusi oleh pihak terkait.
@@ -68,7 +68,7 @@ Cara lain untuk melakukan pengaduan adalah dengan mengontak akun Dinas PUPR di l
 
 Fasilitas pejalan kaki merupakan tempat umum yang digunakan untuk kepentingan masyarakat. Oleh karena itu, terdapat hak dan kewajiban yang sudah diatur dalam Bagian Keenam tentang Hak dan Kewajiban Pejalan Kaki dalam Berlalu Lintas, khususnya pada pasal 131 dan 132.
 
-![Kel](/assets/img/kel4.png)
+![Kel](/blog/assets/img/kel4.png)
 
 Pada pasal 131 ayat (1), pejalan kaki berhak untuk mendapatkan fasilitas pendukung berupa trotoar, tempat penyeberangan, dan fasilitas lain yang layak. Fasilitas yang disediakan harus memenuhi kriteria keamanan dan kenyamanan bagi pejalan kaki. Pada ayat (2) dijelaskan bahwa pejalan kaki berhak untuk mendapatkan prioritas ketika menyeberang jalan di tempat penyeberangan. Apabila di sekitar tempat tersebut tidak terdapat fasilitas pendukung untuk menyeberang jalan, pejalan kaki berhak untuk menyeberang di tempat yang dipilih dengan mempertimbangkan keselamatannya. Selain itu, pejalan kaki wajib memperhatikan kondisi lalu lintas di sekitar tempat dia menyeberang. Pasal 132 menjelaskan tentang kewajiban yang harus dilakukan oleh pejalan kaki. Pejalan kaki wajib menggunakan fasilitas pendukung yang memang diperuntukkan bagi pejalan kaki. Apabila tidak terdapat fasilitas pendukung, pejalan kaki wajib menggunakan bagian tepi jalan.
 
